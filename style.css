@@ -69,3 +69,34 @@ em{
     color: seashell;
     font: 25px
 }
+
+/* Bonus Questions */
+
+/* Bonus Question 1 */
+
+input:checked 
+{
+    margin-left: 40px;
+}
+
+/* Bonus Question 2*/
+label{
+    text-transform: lowercase;
+}
+
+/* Bonus Question 3*/
+#important::first-letter{
+    color:limegreen;
+    font-size: 90px;
+}
+
+/* Bonus Question 4 */
+h1:hover{
+    color:navy;
+}
+
+/* Bonus Question 5 */
+
+a:visited{
+    color: silver
+}
